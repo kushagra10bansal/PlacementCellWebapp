@@ -1,0 +1,12 @@
+.appmain{
+    padding-top: 70px;
+    padding-left: 40px;
+    padding-bottom: 480px;
+    height: 100%;
+    width: 100%;
+    margin: -109px 30px;
+    background-image: url("../../freshers-jobs.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
